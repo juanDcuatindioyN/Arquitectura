@@ -1,0 +1,12 @@
+{
+  "name": "sistema-citas-medicas",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de citas médicas con Arquitectura en Capas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["layered-architecture", "medical", "appointments"],
+  "author": "",
+  "license": "MIT"
+}
