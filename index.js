@@ -9,7 +9,7 @@ console.log('=================================\n');
 
 // Mostrar fecha y hora actual del sistema
 const fechaActual = new Date();
-console.log('📅 FECHA Y HORA ACTUAL DEL SISTEMA:');
+console.log(' FECHA Y HORA ACTUAL DEL SISTEMA:');
 console.log(`   ${fechaActual.toLocaleString()}`);
 console.log(`   (Esta es la referencia para validar si una cita está en el pasado)\n`);
 console.log('---\n');
